@@ -1,0 +1,2 @@
+# EduStady
+eng zo'r
